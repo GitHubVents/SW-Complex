@@ -1,0 +1,46 @@
+﻿<Window x:Class="SwSpecification.MPropUcProfil"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             Title="Разработчики" Height="236" Width="298" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen">
+
+
+    <Grid Background="White" Name="GridMPropUc" Loaded="GridMPropUc_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="277*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="129*"/>
+            <RowDefinition Height="47*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" >
+            <ComboBox Name="CboLang" Margin="5,5,12,5" SelectionChanged="CboLang_SelectionChanged" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Label Content="Разраб." HorizontalAlignment="Left"/>
+            <Label Content="Пров." HorizontalAlignment="Left"/>
+            <Label Content="Т. контр." HorizontalAlignment="Left"/>
+            <Label Content="Утв." HorizontalAlignment="Left"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <TextBox Name="TxtBoxRazrab" Height="23" Margin="2,2,11,2"/>
+            <TextBox Name="TxtBoxProv" Height="23" Margin="2,2,11,2"/>
+            <TextBox Name="TxtBoxTKontrol" Height="23" Margin="2,2,11,2"/>
+            <TextBox Name="TxtBoxYtv" Height="23" Margin="2,2,11,2"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal">
+            <Button Name="BtnSave" Content="Сохранить" HorizontalAlignment="Left" Width="75" 
+                    Height="25"
+                    Click="BtnSave_Click"/>
+            <Button x:Name="BtnCancel" Content="Закрыть" HorizontalAlignment="Right" Width="75"
+            	Height="25"
+            	Click="BtnCancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

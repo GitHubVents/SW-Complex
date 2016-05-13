@@ -1,0 +1,189 @@
+D:\C#Projects\SwSpecification\SwSpecification\obj\Debug\SwSpecification.csprojResolveAssemblyReference.cache
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.csprojResolveAssemblyReference.cache
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.pdb
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.tlb
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.dll
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.pdb
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\VentsMaterials.dll
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\VentsMaterials.pdb
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.Materials.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.csproj.GenerateResource.Cache
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.NewDoc.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.PBar.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.addincheckbox.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll.config
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.FrmUsersSettings.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.SettingForm.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.AboutSWComplex.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.Properties.Resources.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\MPropUC.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\MPropUC.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification_MarkupCompile.cache
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.g.resources
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\DProp.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\DProp.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\WPFToolkit.dll
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\NewTableForm.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\NewTableForm.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\EditProperty.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\EditProperty.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SProp.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\SProp.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\BomControl.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\EditItem.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\BomControl.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\EditItem.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.g.cs
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwBomDll.dll
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\SwBomDll.pdb
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\App.baml
+D:\C#Projects\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\App.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.csprojResolveAssemblyReference.cache
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\DProp.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\EditProperty.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\MPropUC.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\NewTableForm.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SProp.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\App.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\BomControl.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\EditItem.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.baml
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\DProp.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\EditProperty.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\MPropUC.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\NewTableForm.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SProp.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\App.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\BomControl.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\EditItem.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.g.cs
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification_MarkupCompile.cache
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.g.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.AboutSWComplex.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.addincheckbox.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.FrmUsersSettings.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.Materials.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.NewDoc.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.PBar.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.Properties.Resources.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.SettingForm.resources
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.csproj.GenerateResource.Cache
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\obj\Debug\SwSpecification.pdb
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll.config
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.pdb
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwSpecification.tlb
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwBomDll.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\VentsMaterials.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\SwBomDll.pdb
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\VentsMaterials.pdb
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\solidworkstools.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\WPFToolkit.dll
+D:\Project\Developments\1. SwSpecification\SwSpecification\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwSpecification.dll.config
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwSpecification.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwSpecification.pdb
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwSpecification.tlb
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\solidworkstools.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwBomDll.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\VentsMaterials.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\WPFToolkit.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\SwBomDll.pdb
+D:\Project\Developments\SW-Complex\SwSpecification\bin\Debug\VentsMaterials.pdb
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.csprojResolveAssemblyReference.cache
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\DProp.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\EditProperty.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\MPropUC.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\MPropUCProfil.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\NewTableForm.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\NotificationOfChanges.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SProp.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\UcTableToDrwDoc.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\App.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\BomControl.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\EditItem.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.baml
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\DProp.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\EditProperty.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\MPropUC.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\MPropUCProfil.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\NewTableForm.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\NotificationOfChanges.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SProp.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\UcTableToDrwDoc.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\App.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\BomControl.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\EditItem.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\VentsBom\MainWindowVentsBom.g.cs
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification_MarkupCompile.cache
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.g.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.AboutSWComplex.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.addincheckbox.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.FrmUsersSettings.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.Materials.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.NewDoc.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.PBar.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.Properties.Resources.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.SettingForm.resources
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.csproj.GenerateResource.Cache
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.dll
+D:\Project\Developments\SW-Complex\SwSpecification\obj\Debug\SwSpecification.pdb
+D:\C#Projects\1. SwSpecification\SwSpecification\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll.config
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\SwSpecification.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\SwSpecification.pdb
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\SwSpecification.tlb
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\VentsMaterials.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\WPFToolkit.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\bin\Debug\VentsMaterials.pdb
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\DProp.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\EditProperty.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\MPropUC.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\NewTableForm.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SProp.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.baml
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\DProp.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\EditProperty.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\MPropUC.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\MPropUCProfil.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\NewTableForm.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\NotificationOfChanges.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SProp.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\UcTableToDrwDoc.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification_MarkupCompile.cache
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.g.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.AboutSWComplex.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.addincheckbox.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.FrmUsersSettings.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.Materials.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.NewDoc.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.PBar.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.Properties.Resources.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.SettingForm.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.TT.FrmTT.resources
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.csproj.GenerateResource.Cache
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.dll
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification.pdb
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\RecordDimM\FrmRecordDimM.g.cs
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\SwSpecification_MarkupCompile.lref
+D:\C#Projects2015\SwSpecification\SwSpecification\obj\Debug\RecordDimM\FrmRecordDimM.baml

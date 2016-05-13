@@ -1,0 +1,5 @@
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsMaterials\bin\Debug\VentsMaterials.dll
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsMaterials\bin\Debug\VentsMaterials.pdb
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsMaterials\obj\Debug\VentsMaterials.csprojResolveAssemblyReference.cache
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsMaterials\obj\Debug\VentsMaterials.dll
+C:\Users\KB80\AppData\Local\Temporary Projects\VentsMaterials\obj\Debug\VentsMaterials.pdb

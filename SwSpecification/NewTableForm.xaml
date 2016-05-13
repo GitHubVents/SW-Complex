@@ -1,0 +1,46 @@
+﻿<Window x:Class="SwSpecification.NewTableForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Новая таблица" Height="573" Width="436" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Topmost="True">
+    <Grid Name="GridNewTable" Loaded="GridNewTable_Loaded">
+        <ListView Name="LvNewTableForm" Margin="10,55,10,47">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn>
+
+                        <GridViewColumn.Header>
+                            <CheckBox Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+                        </GridViewColumn.Header>
+
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <CheckBox x:Name="ChkBoxProperties"
+                                              IsChecked="{Binding IsSelected,
+                                        RelativeSource={RelativeSource AncestorType={x:Type ListViewItem}}}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="Имя свойства" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock TextAlignment="Left" Text="{Binding PropertiesName}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+        <Button Name="BtnSaveNewTable" Content="Сохранить"
+                HorizontalAlignment="Left" Margin="10,0,0,10" Width="75" Height="22"
+                VerticalAlignment="Bottom" Click="BtnSaveNewTable_Click"/>
+        <TextBox Name="TxtNameNewTable" Text=""
+                HorizontalAlignment="Left" Height="23" Margin="101,13,0,0" TextWrapping="Wrap"
+                VerticalAlignment="Top" Width="120"/>
+        
+        <Label Content="Имя таблицы:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

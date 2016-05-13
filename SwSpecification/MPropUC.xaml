@@ -1,0 +1,221 @@
+﻿<Window x:Class="SWPlus.MProp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MProp" Height="687" Width="636" WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        Topmost="True">
+
+
+    <Grid Name="GridForm" Loaded="Grid_Loaded_1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="507" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="103*" />
+            <RowDefinition Height="48*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="5" HorizontalAlignment="Right" Margin="0,10,10,10" Width="345"  Grid.ColumnSpan="2" Grid.Column="0">
+            <Button Name="Apply" Content="Применить" Width="100" Click="Apply_Click" Margin="0,0,10,0" />
+            <Button Name="ApplyAndClose" Content="Применить и закрыть" Width="150" Click="ApplyAndClose_Click"
+                    Margin="0,0,10,0" />
+            <Button Name="Close" Content="Закрыть" Width="75" Click="Close_Click" />
+        </StackPanel>
+
+        <!--<Button Name="BtnEditProp" Content="Редактор свойств" Width="124" Click="BtnEditProp_Click"/>-->
+        <!--<Button Name="DeleteAllProperties" Content="Очистить свойства" HorizontalAlignment="Left" Margin="496,262,0,0" VerticalAlignment="Top" Width="131" Click="DeleteAllProperties_Click" Grid.Row="2"/>
+        <Label Content="Фирма:" HorizontalAlignment="Left" Margin="290,227,0,0" VerticalAlignment="Top" Width="54" Grid.Row="2"/>
+        <ComboBox Name="CboFirm" HorizontalAlignment="Left" Margin="349,231,0,0" VerticalAlignment="Top" Width="278" Grid.Row="2"/>-->
+        <StackPanel Grid.Row="3" Margin="0,10,0,10" Grid.ColumnSpan="2" Grid.Column="0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Label Content="Формат:" VerticalAlignment="Top" />
+                <ComboBox Name="CboFormat" Width="45" IsEditable="True"
+                          IsSynchronizedWithCurrentItem="True"
+                          LayoutUpdated="CboFormat_LayoutUpdated" />
+                <CheckBox Name="ChkFormat" Content="Задать формат" Checked="ChkFormat_Checked"
+                          Unchecked="ChkFormat_Unchecked" Click="ChkFormat_Click" VerticalAlignment="Center"
+                          Margin="10,0,0,0" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                <Label Content="Примечание:" />
+                <TextBox Name="note" Height="23" Width="170" Background="#FFEEEEEE" BorderBrush="Black" />
+            </StackPanel>
+        </StackPanel>
+
+        <GroupBox Header="Конфигурации" BorderBrush="#FF858585" Grid.Row="3" Margin="268,10,3,16" Grid.ColumnSpan="2" Grid.Column="0">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Конфигурация:" VerticalAlignment="Center" />
+                <ComboBox Name="CboConfig" Width="237" Height="20" DropDownClosed="CboConfig_DropDownClosed" Margin="0,12" />
+            </StackPanel>
+        </GroupBox>
+
+        <Menu IsMainMenu="True" Grid.Row="0"  Grid.ColumnSpan="2" Grid.Column="0">
+            <MenuItem Header="_Редактировать">
+                <MenuItem Header="Редактор свойств" Name="EditProp" Click="EditProp_Click" />
+                <MenuItem Header="Очистить свойства" Name="DeleteProperties" Click="DeleteProperties_Click"/>
+                <MenuItem Header="Редактор профилей пользователя" Name="Profil" Click="Profil_Click" />
+            </MenuItem>
+        </Menu>
+
+        <!--Обозначение и Наименование-->
+        <GroupBox Header="Обозначение и Наименование" BorderBrush="#FF858585" Grid.Row="1" Grid.Column="0"
+                  Margin="3">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="80" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="490" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="2">
+                    <Label Content="Обозначение:" VerticalAlignment="Center"/>
+                    <TextBox x:Name="TxtNumber" Height="30" Width="270" Background="#FFEEEEEE" BorderBrush="Black"
+                             FontSize="18" Margin="10,0,0,0"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="0">
+                    <Label  Name="LblClass3" Content="-" Height="30"/>
+                    <TextBox Name="TxtConf" Height="30" FontSize="18" Width="45" Background="#FFEEEEEE"
+                             BorderBrush="Black"/>
+                    <ComboBox x:Name="CboDrawingDoc" FontSize="18" Height="30" Width="50" Margin="10,0,5,0"
+                              DropDownClosed="CboDrawingDoc_DropDownClosed" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0">
+                    <StackPanel>
+                        <Label Content="Наименование:" />
+                        <CheckBox Name="ChkFont" Content="Умен. шрифт" Click="ChkFont_Click" />
+                    </StackPanel>
+
+                    <TextBox Name="DescriptionTxtBox" AcceptsReturn="True" TextAlignment="Center"
+                             TextWrapping="Wrap" Text=""
+                             Width="390" Background="#FFEEEEEE" BorderBrush="Black" FontSize="18" Margin="0,5,0,10" />
+                </StackPanel>
+
+                <StackPanel Orientation="Vertical" Grid.Row="2" Margin="0,5,0,0" Grid.Column="0">
+
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Наименование английское:" Width="95" TextWrapping="Wrap"/>
+                        <TextBox x:Name="TxtEngDescription" TextAlignment="Center" Text=""
+                                 Background="#FFEEEEEE" BorderBrush="Black" FontSize="16" Width="390" />
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0" >
+                        <Label Content="Раздел:" Width="95" />
+                        <ComboBox x:Name="ComboBoxSection" DropDownClosed="ComboBoxSection_DropDownClosed" Width="390" />
+                    </StackPanel>
+
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+
+        <!--Масса и плотность-->
+        <GroupBox Header="Масса и плотность" HorizontalAlignment="Right" BorderBrush="#FF858585" Grid.Row="2" Grid.ColumnSpan="2"
+                  Margin="0,3,3,3"
+                  Grid.Column="0"
+                  Width="351">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Масса:" />
+                    <TextBox Name="TxtMass" Height="23" Width="65" Background="#FFEEEEEE" BorderBrush="Black"
+                             Margin="30,0,0,0" />
+                    <Label Name="LblMass" Width="15" />
+                    <CheckBox Name="ChkNoMass" Content="Без массы" Click="ChkNoMass_Click" VerticalAlignment="Center"
+                              Margin="5,0,0,0" />
+                    <CheckBox Name="ChkMassTable" Content="См. табл." Click="ChkMassTable_Click"
+                              VerticalAlignment="Center" Margin="10,0,0,0" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Единицы:" VerticalAlignment="Center" />
+                    <ComboBox Name="CboMass" Width="65" SelectionChanged="CboMass_SelectionChanged"
+                              VerticalAlignment="Center" Margin="15,0,0,0" />
+                    <CheckBox Name="ChkDefMass" Content="Задать единицы и точн." Click="ChkDefMass_Click"
+                              VerticalAlignment="Center" Margin="20,0,0,0" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Точность:" />
+                    <ComboBox Name="CboTol" Width="65" SelectionChanged="CboTol_SelectionChanged" Margin="15,0,0,0" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Плотность:" />
+                    <TextBox Name="TxtDens" Width="65" Background="#FFEEEEEE" BorderBrush="Black" Margin="8,3,0,3" />
+                    <Label Content="кг/м3" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Штриховка:" />
+                    <ComboBox Name="CboHatch" Width="150" Margin="5,0,0,0" />
+                </StackPanel>
+
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Заготовка" HorizontalAlignment="Left" VerticalAlignment="Top" Width="260"
+                  BorderBrush="#FF858585" Grid.Row="2" Grid.Column="0" Height="195" Margin="3,3,0,0">
+            <StackPanel Orientation="Vertical">
+                <CheckBox Name="ChkBlank" Content="Заготовка" Click="ChkBlank_Click" />
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Обозначение:" />
+                    <TextBox Name="TxtBlankNumber" Margin="20,0,0,1" Height="23" Text="" Width="120"
+                             Background="#FFEEEEEE" BorderBrush="Black"
+                             TextChanged="TxtBlankNumber_TextChanged" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Наименование:" />
+                    <TextBox Name="TxtBlankDescription" Margin="11,0,0,1" Width="120" Background="#FFEEEEEE"
+                             BorderBrush="Black" TextChanged="TxtBlankDescription_TextChanged" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Формат:" />
+                    <ComboBox Name="CboBlankFormat" Margin="52,1,0,1" Width="65" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Примечание:" />
+                    <TextBox Name="TxtBlankRemark" Margin="25,1,0,1" Width="120" Background="#FFEEEEEE"
+                             BorderBrush="Black" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Раздел:" />
+                    <ComboBox Name="CboBlankSection" Margin="58,1,0,1" Width="120" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Группа:" />
+                    <ComboBox Name="CboBlankGroup" Margin="57,1,0,1" Width="120" />
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Тип" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="0" Margin="3">
+            <TextBlock Name="TextBlockLabel" TextWrapping="Wrap" Margin="3"/>
+        </GroupBox>
+        <StackPanel Margin="3" Grid.Row="1" Grid.Column="1" Orientation="Vertical">
+            <GroupBox Header="Литера" Height="80" VerticalAlignment="Top">
+                <StackPanel>
+                    <ComboBox Name="CboLit" Width="50" Margin="0,10,0,10"/>
+                    <CheckBox Name="ChkLitTable" Content="См. табл." HorizontalAlignment="Left"/>
+                </StackPanel>
+            </GroupBox>
+            <StackPanel>
+                <CheckBox Name="ChkManual" Content="Ввести Обознач." 
+                          Margin="3"
+                          Click="ChkManual_Click"/>
+                <CheckBox Name="Исполнение" Content="Исполнение" HorizontalAlignment="Left"
+                          Margin="3"
+                          VerticalAlignment="Top" Click="Исполнение_Click"/>
+                <CheckBox Name="ChkAssem" Content="Сборка"
+                          Margin="3"
+                          Click="ChkAssem_Click"/>
+            </StackPanel>
+            <!--Checked="ChkBlank_Checked" Unchecked="ChkBlank_Unchecked"-->
+        </StackPanel>
+    </Grid>
+
+
+</Window>

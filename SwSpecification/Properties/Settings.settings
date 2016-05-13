@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SwSpecification.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path1c" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\1cv82\8.2.18.61\bin\1cv8.exe</Value>
+    </Setting>
+    <Setting Name="LoginUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PasswordUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Key1c" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ENTERPRISE /s"srvprog:1641\Yurchenko_new" /c "Constructor"</Value>
+    </Setting>
+    <Setting Name="SWPlusDBConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)" />
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MaterialsDataSours" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\SW-Complex</Value>
+    </Setting>
+    <Setting Name="ComboBoxIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.14.11</Value>
+    </Setting>
+    <Setting Name="ChkInsPrp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ChkStandard" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SWPlusDBConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=192.168.14.11;Initial Catalog=SWPlusDB;Persist Security Info=True;User ID=sa;Password=PDMadmin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=192.168.14.11;Initial Catalog=SWPlusDB;Persist Security Info=True;User ID=sa;Password=PDMadmin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
